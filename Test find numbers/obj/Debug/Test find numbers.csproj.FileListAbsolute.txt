@@ -1,0 +1,7 @@
+C:\Users\milan\Desktop\Ucebnice C# -Moderni programovani\Test find numbers\Test find numbers\bin\Debug\Test find numbers.exe.config
+C:\Users\milan\Desktop\Ucebnice C# -Moderni programovani\Test find numbers\Test find numbers\bin\Debug\Test find numbers.exe
+C:\Users\milan\Desktop\Ucebnice C# -Moderni programovani\Test find numbers\Test find numbers\bin\Debug\Test find numbers.pdb
+C:\Users\milan\Desktop\Ucebnice C# -Moderni programovani\Test find numbers\Test find numbers\obj\Debug\Test find numbers.csprojAssemblyReference.cache
+C:\Users\milan\Desktop\Ucebnice C# -Moderni programovani\Test find numbers\Test find numbers\obj\Debug\Test find numbers.csproj.CoreCompileInputs.cache
+C:\Users\milan\Desktop\Ucebnice C# -Moderni programovani\Test find numbers\Test find numbers\obj\Debug\Test find numbers.exe
+C:\Users\milan\Desktop\Ucebnice C# -Moderni programovani\Test find numbers\Test find numbers\obj\Debug\Test find numbers.pdb
