@@ -19,8 +19,7 @@ namespace Test_find_numbers
             var unique = new List<int>();            
 
             foreach (var n in numbers)
-            {
-                
+            {                
                 if (unique.Contains(n))
                 {
                     unique.Remove(n);                    
